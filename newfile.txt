@@ -1,2 +1,5 @@
 newfile.txt
+chekc 2:wq
+:wq
+
 
